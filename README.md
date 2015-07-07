@@ -1,0 +1,2 @@
+# RecyclerviewAnimators
+RecyclerView ItemAnimator动画集
